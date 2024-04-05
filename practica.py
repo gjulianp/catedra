@@ -60,7 +60,7 @@ fig_barras_comparativas.update_layout(
 
 # APLICACION
 app = dash.Dash()
-
+server = app.server
 # Diseño de la aplicación
 app.layout = html.Div(
     style={'max-width': '960px', 'margin': '0 auto'},  # Centrar horizontalmente el contenido
