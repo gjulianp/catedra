@@ -6,16 +6,14 @@ import os
 import pandas as pd
 
 # CARGA DE DATOS
-directorio = '/home/julian/Documentos/Catedra-SostyCC'
+directorio = './'
 archivos_csv = [archivo for archivo in os.listdir(directorio) if archivo.endswith('.csv')]
 
-ruta_csv_faltas = os.path.join('/home/julian/Documentos/Catedra-SostyCC/faltas_por_sesion.csv')
+ruta_csv_faltas = os.path.join('faltas_por_sesion.csv')
 df_faltas_por_sesion = pd.read_csv(ruta_csv_faltas)
 
-ruta_csv_justificaciones = os.path.join('/home/julian/Documentos/Catedra-SostyCC/inasistencias justificadas/justificaciones.csv')
-df_justificaciones = pd.read_csv(ruta_csv_justificaciones)
 
-ruta_csv_matriculados = os.path.join('/home/julian/Documentos/Catedra-SostyCC/matriculados/matriculados.csv')
+ruta_csv_matriculados = os.path.join('matriculados/matriculados.csv')
 datos_matriculados = pd.read_csv(ruta_csv_matriculados)
 
 df_ausentes_por_sesion = pd.read_csv('sesiones_asistencia_ausentes.txt', sep='\t')
