@@ -1,6 +1,7 @@
 import dash
 from dash import html
 from dash import dcc
+from dash.dependencies import Input, Output
 import plotly.express as px
 import os
 import pandas as pd
@@ -11,7 +12,7 @@ archivos_csv = [archivo for archivo in os.listdir(directorio) if archivo.endswit
 
 ruta_csv_faltas = os.path.join('faltas_por_sesion.csv')
 df_faltas_por_sesion = pd.read_csv(ruta_csv_faltas)
-
+df_faltas_por_sesion.nombre = df_faltas_por_sesion.nombre.str.capitalize()
 
 ruta_csv_matriculados = os.path.join('matriculados/matriculados.csv')
 datos_matriculados = pd.read_csv(ruta_csv_matriculados)
@@ -34,20 +35,17 @@ fig_pastel_matriculados = px.pie(values=porcentaje_matriculados,
 fig_ausentes = px.line(df_ausentes_por_sesion, x='sesion', y='ausentes',
                         title='Número de ausentes por sesión')
 
-
 # Personalizar el estilo del gráfico
 fig_ausentes.update_layout(
     plot_bgcolor='white',  # Establecer el color de fondo blanco
     xaxis=dict(showgrid=False, linecolor='black'), 
     yaxis=dict(showgrid=False, linecolor='black') 
-
 )
 
 # Crear el gráfico de barras comparativas
 fig_barras_comparativas = px.bar(df_ausentes_por_sesion, x='sesion', y=['asistencia', 'ausentes'],
                                   barmode='group', labels={'value': 'Cantidad', 'variable': 'Tipo'},
                                   title='Asistencia vs Ausentes por Sesión')
-
 
 # Personalizar el estilo del gráfico
 fig_barras_comparativas.update_layout(
@@ -58,33 +56,60 @@ fig_barras_comparativas.update_layout(
 
 # APLICACION
 app = dash.Dash()
-server = app.server
-# Diseño de la aplicación
-app.layout = html.Div(
-    style={'max-width': '960px', 'margin': '0 auto'},  # Centrar horizontalmente el contenido
-    children=[
-        html.H1("Catedra Nacional de Sostenibilidad y Cambio Climatico"),
-        
-        # Primera fila
-        html.Div([
-            html.Div([
-                dcc.Graph(figure=fig_pastel_matriculados)
-            ], className="six columns",style={'width': '45%', 'float': 'left'}),
-            
-            html.Div([
-                dcc.Graph(figure=fig_ausentes)
-            ], className="six columns",style={'width': '45%', 'float': 'left'}),
-        ], className="row"),
-        
-        # Segunda fila
-        html.Div([
-            html.Div([
-                dcc.Graph(figure=fig_barras_comparativas)
-            ], className="twelve columns",style={'width': '90%', 'float': 'none', 'display': 'inline-block'})
-        ], className="row")
-    ]
-)
 
+server = app.server
+# Layout de la aplicación
+app.layout = html.Div([
+    html.H1("Catedra Nacional de Sostenibilidad y Cambio Climatico"),
+    
+    # Dropdown para seleccionar el tipo de gráfico
+    dcc.Dropdown(
+        id='dropdown-graficos',
+        options=[
+            {'label': 'Gráficos', 'value': 'graficos'},
+            {'label': 'Datos', 'value': 'datos'}
+        ],
+        value='graficos',  # Valor predeterminado
+    ),
+    
+    # Div donde se mostrará el gráfico seleccionado
+    html.Div(id='grafico-seleccionado')
+])
+
+# Callback para actualizar el gráfico según la opción seleccionada en el dropdown
+@app.callback(
+    Output('grafico-seleccionado', 'children'),
+    [Input('dropdown-graficos', 'value')]
+)
+def actualizar_grafico(opcion):
+    if opcion == 'graficos':
+        return [
+            html.Div(
+                dcc.Graph(figure=fig_pastel_matriculados),
+                style={'width': '45%', 'float': 'left', 'margin-right': '5px'}
+            ),
+            html.Div(
+                dcc.Graph(figure=fig_ausentes),
+                style={'width': '45%', 'float': 'left', 'margin-left': '5px'}
+            ),
+            html.Div(
+                dcc.Graph(figure=fig_barras_comparativas),
+                style={'width': '90%', 'float': 'none', 'display': 'inline-block', 'margin-left': '5px'}
+            )
+        ]
+    if opcion == 'datos':
+        return [
+            html.Table([
+                html.Thead(
+                    html.Tr([html.Th(col) for col in df_faltas_por_sesion.columns])
+                ),
+                html.Tbody([
+                    html.Tr([
+                        html.Td(df_faltas_por_sesion.iloc[i][col]) for col in df_faltas_por_sesion.columns
+                    ]) for i in range(len(df_faltas_por_sesion))
+                ])
+            ])
+        ]
 
 # Ejecutar la aplicación
 if __name__ == "__main__":

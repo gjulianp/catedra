@@ -1,396 +1,146 @@
-nombre,documento,faltas
-"ARROYO AVILEZ, CARLOS ALBERTO",1003594161,1
-"Acevedo Rios, Carol Daniela",1018477583,1
-"Acosta Meza, Santiago",1001092861,1
-"Aguiar Aguirre, Valeria",1001421060,1
-"Aguilar Ortiz, Juan David",1005108846,2
-"Aguirre Cortes, Karen Dayanna",1023364014,2
-"Aguirre Lopera, Maria Alejandra",1000644375,1
-"Alfonso Villalobos, Holly Michelle",1003173665,1
-"Alquerque Mesa, Osias Miguel",1001161741,1
-"Alvarez Botero, Alejandro",1001652297,1
-"Alvarez Rubiano, Angel Augusto",1030627779,2
-"Alvira Giron, Estefania",1110602823,2
-"Alzate Osorio, Ricardo",1007227215,1
-"Anacona Melenje, Deyi Mildred",1023918188,1
-"Angel Pineda, Harrison",1001298813,1
-"Aponte Torres, Daniel Alberto",1049373006,1
-"Arango Acevedo, Natalia",1000304929,1
-"Arias Castaño, Juan Pablo",1033816233,2
-"Arredondo Puerta, Angel Camilo",1007928211,1
-"Arrieta Camargo, Shirly Paola",1000186041,1
-"Ayala Pérez, Leidy Yuliana",1042066149,1
-"Ayala Vásquez, Adrián",1035879968,1
-"BALLESTEROS ALBARÁN, JUAN DAVID",1054478249,2
-"BENAVIDES RAMIREZ, JUAN ANDRES",1012916819,1
-"BUITRAGO CIFUENTES, MARTHA ESPERANZA",1011098159,1
-"Baquero Ramirez, Daniel Steven",1000214264,2
-"Barreiro Arroyo, Maria Angelica",1006169095,2
-"Barrera Ortiz, Paula Andrea",1001325732,2
-"Barrios Berrio, Alejandro",1000296216,1
-"Becerra Silva, Felipe",1010127679,2
-"Bejarano Rivera, Wilmar Johany",1000564491,2
-"Beltran Beltran, Laura Natalia",1010117285,1
-"Beltran Guarin, Daniel Enrique",1193149942,2
-"Beltran Hernandez, Deiby Tatiana",1022427535,1
-"Beltran Rodriguez, Sara Valentina",1001297248,1
-"Beltran Zuluaga, Yurani",1125478233,1
-"Berjan Sosa, Eimmy Jeraldine",1012322187,1
-"Bernales Afanador, Rodrigo Elias",1143470259,1
-"Bernate Patiño, York David",1079411399,4
-"Betancur Garcia, Miguel Humberto",1053870514,2
-"Betancur Gomez, Eduar Alejandro",1007234408,1
-"Betancur Mesa, Diana Carolina",1010079864,1
-"Bocanegra Cardenas, Antoine",1032497565,1
-"Bonilla Palacio, Mauricio",1000653951,1
-"Botero García, Jimena",1001652102,1
-"Bravo Argote, Sharon Stephanie",1004731311,1
-"Brijaldo Alba, Maria Alejandra",1001097943,1
-"Briñez Salcedo, Luz Maria",1116043099,1
-"Burbano Portes, Jose Alexander",1004611657,3
-"CABRERA MENDEZ, KAROL YESENIA",1007818145,2
-"CARDENAS QUINTERO, DANIELA",1014736851,1
-"CASTILLO LANDAZURI, LUIS CARLOS",1087113955,3
-"Cabra Acuña, Fabian Ricardo",1193551251,1
-"Cabrera Motta, Cesar Camilo",1020813226,1
-"Cabrera Salazar, Laura Piedad",1080265209,2
-"Caceres Leal, Jhon Nelson",1019127612,1
-"Cadavid Hernandez, Vanessa",1007241495,1
-"Cagua Bejarano, Angel Yamid",1000031430,1
-"Caicedo Mugno, Carolina Yiseth",1192808528,1
-"Calderon Camargo, Oriana",1065563426,2
-"Camargo Garcia, Stephania",1001328690,1
-"Camelo Suarez, David Andres",1014304778,1
-"Campiño Figueroa, Sebastian Hernando",1018504452,1
-"Cantincuz Urbano, Janier Orlando",1004730465,1
-"Cardenas Avendaño, Darlin Estefany",1193063640,1
-"Cardenas Rios, David",1000125441,3
-"Cardona Acevedo, Andres Emiro",1000395932,1
-"Cardona Romero, Manuela",1001420909,2
-"Cardona Soto, José David",1001477997,1
-"Carrera Ortiz, Camila ",1005743928,4
-"Castaño Gil, Santiago",1007536059,1
-"Castaño Jaramillo, Karen Sofia",1003434143,1
-"Castaño Moya, María José",1005702526,1
-"Castellanos Osuna, Paula Andrea",1010006310,1
-"Castillo Cruz, Thania Mariluz",1053345642,2
-"Castillo Molano, Bryan",1022434656,1
-"Castillo Rivera, Hadit",1000708592,1
-"Castrillón Rivera, Isabela",1007402791,1
-"Castro Roman, Valeria",1192722261,2
-"Castro Solano, Sebastian Camilo",1013690466,1
-"Castro Velandia, Raul Esteban",1002523157,1
-"Castro Zapata, Natalia",1006291577,1
-"Celis Puerto, Dina Mildrey",1118576430,2
-"Chacon Barrero, Juan Sebastian",1001191560,3
-"Chala Martínez, Samanta",1125232067,1
-"Chamorro Villota, Estefany Nathyeli",1004532398,1
-"Chaparro Jimenez, Daniel Felipe",1072675255,1
-"Chapuel Cuaran, Corayma Sofia",1192773466,1
-"Charfuelan Charfuelan, Deysi Viviana",1192770362,1
-"Chaves Anrango, Jherson Farith",1087616279,1
-"Chaves Cardenas, Edwin Alberto",1076620644,1
-"Chinome Rodriguez, Andres Felipe",1049651990,3
-"Cobos Neira, Andrea Carolina",1007940183,1
-"Corcho Yepes, Maria Camila",1192793862,1
-"Corona Torres, Leonardo Federico",1214742560,2
-"Correa Barrero, Daniela Fernanda",1000504664,1
-"Correa Parra, Alejandro",1002566553,1
-"Corredor Jaimes, Jhann Charles",1024575867,1
-"Cortés Ossa, Laura Marcela",1002636252,4
-"Cruz Caicedo, Diego Luis",1000944143,1
-"Cuartas Guillen, Juan Esteban",1007729721,1
-"Cuartas Jimenez, Valentina",1152464267,1
-"Cuellar Mora, Ivan David",1000689471,1
-"Cuenú Silva, Luis Angel",1004617938,2
-"Curtidor Castillo, Maria De Los Angeles",1007676162,1
-"Cárdenas Valbuena, Luis David",1002633659,3
-"DUQUE CASTAÑO, JESSICA ALEXANDRA",1037640123,2
-"Dangond Gamboa, Augusto Jose",1007373711,2
-"De Angel Gonzalez, Luisa Valeria",1006666307,2
-"Delgado Aramburo, Isabella ",1006309536,1
-"Diaz Ayala, Maria Paula",1049831011,1
-"Diaz Corrales, Juan Diego",1007404641,2
-"Diaz Diaz, Nazly Tatiana",1007782876,1
-"Diaz Fuentes, Alejandra",1067590559,1
-"Diaz Montalvo, Daniel Antonio",1053848461,2
-"Diaz Orozco, Leonardo",1006024153,1
-"Diaz Suarez, Cesar Steven",1107515973,2
-"Duarte Pedroza, Ana Karina",1116555971,4
-"Duarte Álvarez, Sofía",1001532745,1
-"Duque Botina, Cristhian Joan",1015456042,1
-"Durango Muñoz, Maria Camila",1035234476,1
-"ENRIQUEZ CHAMORRO, VICTOR DAVID",1086894127,2
-"Echavarria Cano, Javier Dario",1037669757,1
-"Echeverri Vasco, Estefania",1001446341,1
-"Echeverry Ayala, Camilo Arturo",1019149979,2
-"Escalante Morales, Susana Amanecer",1039470829,2
-"Escobar Reyes, Camilo Andres",1024526388,1
-"España Jacanamejoy, Dayana Marcela",1006908064,1
-"Espitia Sanchez, Jesus Manuel",1123633924,1
-"Estupiñan Miranda, Angie Catalina",1002458393,1
-"Figueroa Mera, Steven Alexander",1006331961,2
-"Florez Rodiño, Giovanis Andres",1014294247,1
-"Franco Castrillon, Laura Sofia",1001330175,1
-"Franco Gomez, Deibi Leandro",1036393669,1
-"Franco Velasquez, Mayra Cristina",1152456536,1
-"GUZMÁN QUIROGA, JUAN DAVID",1075792274,1
-"Galindo Cruz, Diego Alejandro",1006799460,2
-"Gallego Henao, Luis Enrique",1005699334,1
-"Gallego Jiménez, Manuel Alejandro",1001725530,2
-"Gallo Aguilera, Sayda Marcela",1000697697,3
-"Galvis Florez, Alejandro",1002633531,2
-"Gamez Cardoso, Manuel Santander",1004232558,1
-"Garcia Acosta, Juan José",1006844394,1
-"Garcia Arias, Diego Fernando",1007542466,1
-"Garcia Ayala, Sebastian",1036689134,2
-"Garcés Isaza, Elizabeth",1039024903,2
-"Garreta Garreta, Javier Alejandro",1005896397,1
-"Gil Agudelo, Daniel Camilo",1146438275,1
-"Gil Bustamante, Whalner Esneyder",1234188258,1
-"Gil Guiza, Marcos Daniel",1005280830,2
-"Giraldo Arias, Juan Manuel",1053871390,1
-"Gomez Arias, Luis Felipe",1003316730,1
-"Gomez Mora, Maria Camila",1000241619,3
-"Gomez Ramirez, Gustavo Andres",1002547677,1
-"Gonzalez Carvajal, Andres Camilo",1109300997,1
-"Gonzalez Garzon, Helen Jineth",1001327491,1
-"Gonzalez Hurtado, Angela Sofia",1007795738,1
-"Gonzalez Ortiz, Karen Sofia",1024595423,1
-"Grajales Estrada, Mariana",1193078594,1
-"Granada Alvarez, Santiago",1152712741,1
-"Grillo Gonzalez, Sebastian",1003690070,1
-"Guano Riascos, David Alejandro",1004592603,1
-"Guarin Medina, Soraya",1030677169,1
-"Guerrero Patiño, Ricardo Santiago",1192724431,1
-"Gutierrez Ramirez, Vanessa Maria",1036952250,1
-"Gutiérrez Arango, Juan Camilo",1193239214,1
-"Guzman Pulido, Luis Felipe",1105790866,2
-"Guzman Susa, Natalia",1013101513,2
-"Gómez Cano, Santiago",1001539632,1
-"Gómez Correa, Angela María",1000416967,1
-"Gómez Rodríguez, Germán Camilo",1113691040,1
-"Henao Montoya, Eduardo",1000696525,2
-"Hernandez Arango, Juan Felipe",1007233524,2
-"Hernandez Martinez, Nicolas",1014301332,1
-"Hernandez Pelaez, Luis Felipe",1118570688,1
-"Hernandez Villa, Mariana ",1002673061,1
-"Herrera Roldan, Laura Maria",1128397662,1
-"Hurtado Burgos, Diego Marino",1004516740,2
-"Ibargüen Valencia, John Jairo",1128402088,1
-"Irreño Mejía, Santiago",1000794063,1
-"Isaza Suarez, Thalia Isabel",1007299690,2
-"Jaramillo Cardona, Diomer",1001416328,3
-"Jaramillo Díaz, Sofía",1001370738,1
-"Jimenez Brochero, Fabiana Isabel",1128189820,1
-"Jimenez Castañeda, Carol Xiomara",1000381755,1
-"Jimenez Zamudio, Maria Sofia",1003634514,1
-"Jiménez Cárdenas, Manuela",1000886809,1
-"LARGO DE ORO, SARITH GABRIELA",1096065407,1
-"LEON GONZALEZ, DANNA CONSTANZA",1051065648,2
-"LOMBANA CÁCERES, LUIS ÁNGEL",1116071066,1
-"Laguna Lasso, Angela Valentina",1004131515,1
-"Lasso Vargas, Monica Ximena",1000787766,2
-"Laverde Alfonso, Ana Maria",1013098547,1
-"Leal Peñalosa, Valentina",1005256744,1
-"Leon Garzon, Santiago",1000796619,1
-"León Tenganan, Juan David",1152691856,1
-"Lizarazo Barrios, Santiago",1007476147,1
-"Lizarazo Espinosa, Silvia Fernanda",1005108413,1
-"Llanos Quintero, Anderson Andres",1032504589,1
-"Londoño Muñoz, Ivan Alberto",1036681896,1
-"Lopez Beltran, Nicolas",1193102200,1
-"Lopez Castro, Leidy Yohana",1006405611,1
-"Luna Vasquez, Samuel Edeyber",1123638954,1
-"Luque Rivera, Andres Felipe",1006130854,1
-"López Gil, Daniel Simón",1152215211,1
-"López Marín, Valeria",1002653352,1
-"MEJÍA GARCÍA, SANTIAGO ANDRÉS",1036403208,1
-"MONTIEL ZABALETA, SHANTAL STEFANIA",1063356845,1
-"MORAN ARAUJO, NICHOLAS ENRIQUE",1004601271,1
-"MORENO POSADA, VALERIA",1041533026,1
-"Madrid Correa, Juan Manuel",1010006163,1
-"Maestre García, Mateo",1010122984,4
-"Mahecha Posada, Edison Alexander",1014307274,1
-"Manosalva Manrique, Julian Alexander",1000464375,1
-"Martinez Barbosa, Santiago",1000348518,1
-"Martinez Calderon, Linda Tatiana",1000460834,2
-"Martinez Cortez, Anyi Milena",1087647863,1
-"Martínez Castro, Ana María",1007232143,1
-"Masquitta Brandt, Madeo Donovan",1192801895,2
-"Mazuera Galvez, Alejandro",1113700084,1
-"Medina Veira, Julian Felipe",1016111040,1
-"Mejia Garisabalo, Linda Paola",1001848079,4
-"Mejía Guerrero, Sebastián ",1216726630,1
-"Melgarejo Fuken, Janira Mariela",1026578933,2
-"Mena Romaña, Maria Camila",1025761639,3
-"Mendez Tapiero, Angelica ",1152462278,2
-"Mendivelso Torres, Fernando",1018505516,1
-"Meneses Ruiz, Daniel",1002752463,2
-"Mesa Hurtado, Camilo",1026162003,1
-"Molina Hernandez, Maria Camila",1010000466,1
-"Monroy Torrado, Jesus Andres",1234089413,1
-"Montaña Ibarra, Juan Sebastian",1032505198,1
-"Montoya Ospina, Diego Alejandro",1002544509,1
-"Morales Barbosa, Johan Gerardo",1193100386,2
-"Morales Bernal, Sebastian",1010049872,1
-"Morales Restrepo, Juan David",1007463408,1
-"Moreno Erazo, Johan Harvey",1006330833,1
-"Moreno Vargas, Hector Leonardo",1002395608,1
-"Mosquera Lopez, Lina Alejandra",1005195668,1
-"Mosquera Reyes, Ivan Camilo",1013689499,2
-"Moyano Plazas, Dayana Alejandra",1001089866,2
-"Munera Castaño, Mateo",1036668863,2
-"Murcia Rivera, Diego Valdemar",1000363755,1
-"Murillo Pelaez, Juan Esteban",1193460400,1
-"Muñoz Botero, Jan Michael",1001651861,1
-"Muñoz Cortés, Alejandro",1002567191,1
-"NOCOBE ARIZA, DANIELA",1016945111,1
-"Nazate Guamá, Lizzett Karolina",1088598644,1
-"Nieves Ruiz, Duván Ariel",1101759197,1
-"Niño Gualdron, Pedro Alejandro",1002726008,4
-"Novoa Alarcón, Brigitte Nataly",1070307179,1
-"Nuncira Davila, Diego Alejandro",1002459343,1
-"OSPINA QUINTERO, YEIMI FERNANDA",1055458161,1
-"Ocampo Velasquez, Brahiam Camilo",1112969033,1
-"Ochoa Rojas, Diego Alejandro",1117552081,3
-"Ojeda Gallardo, Laura Valentina",1005755270,1
-"Olave Muñoz, Nicolas Nru Gibard",1214748341,2
-"Olaya Mantilla, Juan Camilo",1001086816,1
-"Olivares Restrepo, Alejandro",1007240086,2
-"Orobio Ramirez, Jahandry Sebastian",1087188633,1
-"Orozco Moscote, Alfonso David",1003316283,4
-"Orozco Patiño, Christian Sneider",1015277256,3
-"Orozco Ramirez, Natalia Lucia",1006124668,2
-"Orozco Roa, Lizeth",1193541259,1
-"Orozco Toro, Melissa ",1001725032,2
-"Ortega Jimenez, Santiago",1152464429,1
-"Ortiz Garcia, Jesus Rafael",1000049471,1
-"Osorio Giraldo, Paola Nirvana",1053838794,4
-"Osorio Ospina, Sebastian",1053873857,1
-"Osorio Zuluaga, Michelle ",1053860117,1
-"Ospina Ruiz, Juan Francisco",1193114668,1
-"Ossa Cardona, Luis Felipe",1035922470,1
-"PINEDA PINEDA, LUISA MARIA",1002609693,1
-"PORTOCARRERO QUIÑONES, CINDY NATALIA",1087108748,1
-"Pachon Carvajal, Juan Sebastian",1001058094,1
-"Paez Montoya, Diego Alejandro",1152712143,1
-"Paez Reyes, Fernanda Andrea",1193575808,1
-"Palomino Ramirez, Isabella",1003266616,1
-"Patiño Martinez, Laura Pamela",1053868135,1
-"Patiño Tobon, Daniel",1000295489,1
-"Perez Baquero, Eric Brayan",1003232361,1
-"Perez Suancha, Karen Tatiana",1000573129,1
-"Peña Ovalle, Kevin Mateo",1000836554,4
-"Peña Pineda, Jorge Luis",1007398418,1
-"Peña Rodriguez, Juan David",1018514536,1
-"Pineda Perez, Laura Carolina",1014247568,1
-"Pineda Sierra, Daniel",1001309407,1
-"Pineda Tarapuez, Gabriela",1001050054,1
-"Pinto Vélez, Angela Aired",1000687875,2
-"Pinzon Gonzalez, Juan Pablo",1000718741,1
-"Plazas Ballen, Ana Gabriela",1001325149,1
-"Preciado Martinez, Luis David",1020845793,3
-"Prieto Vélez, Carlos Andrés",1031132794,1
-"Páez Botero, Daniela",1000855515,4
-"Pérez López, Jesús Miguel",1003266423,1
-"Quenza Cotinchara, Rosimar ",1006455569,1
-"Quiroga Morales, Mateo",1002633356,1
-"Quitian Vanegas, Govanni",1016061762,3
-"RHENALS MARTÍNEZ, JESÚS DANIEL",1067161472,1
-"RIVERA SAUMETH, BRAYAM ANTHONY",1016065970,3
-"ROMERO BRIÑEZ, ALEJANDRO",1015484556,1
-"Rabelo Mendoza, Luis Miguel",1003381327,2
-"Ramirez Montes, Juan Fernando",1000335801,1
-"Ramirez Nuñez, Elkin Duvan",1006793003,2
-"Ramírez Ramírez, Aura Cristina",1036964506,1
-"Rebolledo Quiroz, Luisa Maria",1003382082,2
-"Rey Perez, Daniel Santiago",1012462273,1
-"Reyes Quintero, Andres Felipe",1083922552,2
-"Rivera Alzate, Ana Maria",1030677364,1
-"Rivillas Sánchez, Juan Pablo",1001010526,1
-"Robles Lombana, Leiny Ruby",1006405859,1
-"Rocha Gomez, Adrian Rafael",1007252496,1
-"Rodriguez Alvarez, Juan Jose",1003435621,2
-"Rodriguez Angel, Fabiana Alexandra",1006553646,1
-"Rodriguez Aponte, Daniel Santiago",1000789340,1
-"Rodriguez Bernal, Santiago",1007423615,1
-"Rodriguez Diaz, Dylan Alexander",1007668857,1
-"Rodriguez Jimenez, Diego Alexander",80219339,1
-"Rodriguez Ospina, Esteban",1000327045,1
-"Rodriguez Toro, Jhonn Alejandro",1007310113,4
-"Rodríguez Montes, Alejandro",1000417152,1
-"Rojas Barrera, Juan Esteban",1001370915,1
-"Rojas Cardozo, Laura Salome",1001173970,1
-"Rojas Parra, Gindrey Lorena",1024583908,1
-"Romero Herrera, Danna Valentina",1000520501,1
-"Román Montiel, Juan Pablo",1007580284,2
-"Rubiano Bautista, Sergio Alejandro",1000518776,1
-"Rubio Triana, Lilia Yineth",1006846586,1
-"Ruiz Buitrago, Juan Fernando",1192895592,1
-"Ruiz Franco, Johan Alexis",1036688261,1
-"Ruiz Garcia, Maria Camila",1004775020,1
-"Ruiz Medina, Dayana",1003502849,1
-"SILVA VEGA, JONH EDWIN",1032365803,1
-"Saavedra Junca, Juan Felipe",1007339946,1
-"Saavedra Sanchez, Jhobann Steven",1032452851,1
-"Saenz Lopez, Juan Pablo",1001083711,4
-"Salas Diaz, Esteban Andres",1007254262,4
-"Salazar Villegas, Martin",1001004151,1
-"Salinas Quintero, Alejandro",1007458611,1
-"Sanchez Diaz, Sergio Esteban",1001331216,1
-"Sanchez Martinez, Laura Daniela",1000331150,1
-"Sanchez Novoa, Brahian Alejandro",1007701261,1
-"Sanchez Ramirez, Andrés Felipe",1020820754,1
-"Sandoval Barrera, Sergio Steven",1193216545,1
-"Sandoval Cobos, Karen Lorena",1001205201,2
-"Santacoloma Ciuffetelli, Salvador ",1193218443,2
-"Santana Garcia, Leydy Paola",1090445336,1
-"Santos Rodriguez, Anamaria",1021392317,1
-"Sarmiento Wilches, Juan David",1018471155,1
-"Sepulveda Morillo, Luis Felipe",1002592883,1
-"Serna Lopez, Nicolas",1002566320,4
-"Sevillano Arbelaez, Luis Miguel",1036339718,1
-"Sierra Valero, Laura Ximena",1002524208,1
-"Sierra Vence, Ronny David",1007182098,1
-"Silva Cantillo, Angie Carolina",1234190842,1
-"Soto Marin, Jesica Alejandra",1054996898,1
-"Suarez Martinez, Edith Alejandra",1010246237,2
-"Suarez Ramirez, Juan Camilo",1010056079,1
-"Suescun Galeano, Mateo",1152470219,2
-"TITISTAR CUASALUSAN, LIZETH KATHERINE",1087794794,1
-"Tamayo Bolívar, Juan Pablo",1020489896,1
-"Tamayo Gonzalez, Santiago",1192904172,2
-"Tangarife Restrepo, Manuel",1128406325,1
-"Tautiva Rojas, Yulieth",1000990939,1
-"Tiguaque Quintero, Jeidy Katherine",1001065068,1
-"Toro Ruiz, John Alejandro",1000066507,1
-"Torres Castellanos, Leidy Natalia",1010118091,1
-"Torres Duran, Jonatan",1007454481,1
-"Torres Martinez, Manuela",1001057937,1
-"Torres Mestre, Sinkuney",1003234046,3
-"Tovar Salamanca, Milton Yesid",1000019543,1
-"Triviño Mideros, Jessica Johanna",1193227420,1
-"Uribe Leon, Yeyferson Leonardo",1102385245,2
-"Valderrama Carmona, David",1001367974,1
-"Valencia Galvis, Mariana",1017259911,2
-"Valencia Roldán, Santiago",1152219940,1
-"Valero Ortiz, Carlos Mario",1000592477,2
-"Vanegas Soler, Yeimi Yined",1000591874,1
-"Vargas Lenis, Laura Catalina",1000407461,1
-"Vargas Rodriguez, Diana Paola",1016100020,1
-"Vargas Sosa, Peter Andres",1125231849,1
-"Vargas Tangarife, Juan Camilo",1053871210,1
-"Vega Guerrero, Karen Lorena",1023968536,2
-"Velasco Lasso, Isabel Cristina",1007888130,1
-"Velez Galvis, Laura Valentina",1005705722,1
-"Velez Grajales, Julissa",1036674850,3
-"Vente Cortes, Yeison Francisco",1193244554,4
-"Vera Soto, Massiel Karina",1003202154,1
-"Vivas Espitia, Cristian Javier",1016079577,1
-"Yela Ortega, Ana Cristina",1004696682,1
-"Yepez Pimienta, Andres Felipe",1006891091,1
-"Zapata Avendaño, Luisa Fernanda",1000099904,1
-"Zapata López, Rubén Darío",1000634916,1
-"Zárate Arias, María Camila",1112969016,1
-"Álvarez Lebrum, Mateo",1001236457,1
+nombre,documento,faltas,sesiones
+"Aguilar Ortiz, Juan David",1005108846,1,[7]
+"Aguirre Cortes, Karen Dayanna",1023364014,1,[7]
+"Alvarez Rubiano, Angel Augusto",1030627779,1,[6]
+"Alvira Giron, Estefania",1110602823,2,"[3, 7]"
+"Arias Castaño, Juan Pablo",1033816233,1,[7]
+"BALLESTEROS ALBARÁN, JUAN DAVID",1054478249,1,[5]
+"Baquero Ramirez, Daniel Steven",1000214264,2,"[3, 6]"
+"Barreiro Arroyo, Maria Angelica",1006169095,1,[7]
+"Barrera Ortiz, Paula Andrea",1001325732,2,"[4, 6]"
+"Becerra Silva, Felipe",1010127679,1,[7]
+"Bejarano Rivera, Wilmar Johany",1000564491,1,[6]
+"Beltran Guarin, Daniel Enrique",1193149942,2,"[3, 6]"
+"Beltran Zuluaga, Yurani",1125478233,2,"[3, 4]"
+"Berjan Sosa, Eimmy Jeraldine",1012322187,1,[4]
+"Bernate Patiño, York David",1079411399,4,"[3, 5, 6, 7]"
+"Betancur Garcia, Miguel Humberto",1053870514,1,[7]
+"Bravo Argote, Sharon Stephanie",1004731311,1,[4]
+"Briñez Salcedo, Luz Maria",1116043099,1,[3]
+"Burbano Portes, Jose Alexander",1004611657,3,"[3, 6, 7]"
+"CABRERA MENDEZ, KAROL YESENIA",1007818145,1,[7]
+"CASTILLO LANDAZURI, LUIS CARLOS",1087113955,3,"[3, 6, 7]"
+"Cabrera Salazar, Laura Piedad",1080265209,1,[5]
+"Caicedo Mugno, Carolina Yiseth",1192808528,1,[4]
+"Calderon Camargo, Oriana",1065563426,1,[6]
+"Camargo Garcia, Stephania",1001328690,1,[3]
+"Cardenas Avendaño, Darlin Estefany",1193063640,1,[3]
+"Cardenas Rios, David",1000125441,3,"[3, 5, 6]"
+"Cardona Romero, Manuela",1001420909,1,[6]
+"Carrera Ortiz, Camila ",1005743928,5,"[3, 4, 5, 6, 7]"
+"Castaño Gil, Santiago",1007536059,1,[3]
+"Castaño Moya, María José",1005702526,1,[3]
+"Castillo Cruz, Thania Mariluz",1053345642,1,[6]
+"Castro Roman, Valeria",1192722261,2,"[3, 6]"
+"Celis Puerto, Dina Mildrey",1118576430,3,"[3, 4, 5]"
+"Chacon Barrero, Juan Sebastian",1001191560,3,"[4, 5, 7]"
+"Chaves Anrango, Jherson Farith",1087616279,1,[4]
+"Chinome Rodriguez, Andres Felipe",1049651990,3,"[3, 6, 7]"
+"Corona Torres, Leonardo Federico",1214742560,1,[7]
+"Cortés Ossa, Laura Marcela",1002636252,5,"[3, 4, 5, 6, 7]"
+"Cruz Caicedo, Diego Luis",1000944143,1,[3]
+"Cuenú Silva, Luis Angel",1004617938,1,[5]
+"Cárdenas Valbuena, Luis David",1002633659,2,"[6, 7]"
+"DUQUE CASTAÑO, JESSICA ALEXANDRA",1037640123,1,[6]
+"Dangond Gamboa, Augusto Jose",1007373711,2,"[3, 5]"
+"De Angel Gonzalez, Luisa Valeria",1006666307,1,[5]
+"Delgado Aramburo, Isabella ",1006309536,2,"[3, 4]"
+"Diaz Corrales, Juan Diego",1007404641,1,[7]
+"Diaz Montalvo, Daniel Antonio",1053848461,1,[6]
+"Diaz Suarez, Cesar Steven",1107515973,1,[6]
+"Duarte Pedroza, Ana Karina",1116555971,5,"[3, 4, 5, 6, 7]"
+"ENRIQUEZ CHAMORRO, VICTOR DAVID",1086894127,2,"[3, 5]"
+"Echeverry Ayala, Camilo Arturo",1019149979,1,[5]
+"Escalante Morales, Susana Amanecer",1039470829,3,"[3, 4, 7]"
+"Figueroa Mera, Steven Alexander",1006331961,1,[7]
+"Florez Rodiño, Giovanis Andres",1014294247,1,[4]
+"Galindo Cruz, Diego Alejandro",1006799460,1,[7]
+"Gallego Jiménez, Manuel Alejandro",1001725530,1,[7]
+"Gallo Aguilera, Sayda Marcela",1000697697,3,"[4, 5, 7]"
+"Galvis Florez, Alejandro",1002633531,1,[6]
+"Garcia Ayala, Sebastian",1036689134,1,[7]
+"Garcés Isaza, Elizabeth",1039024903,2,"[4, 7]"
+"Gil Guiza, Marcos Daniel",1005280830,1,[6]
+"Giraldo Arias, Juan Manuel",1053871390,1,[3]
+"Gomez Mora, Maria Camila",1000241619,3,"[4, 6, 7]"
+"Gonzalez Carvajal, Andres Camilo",1109300997,1,[4]
+"Guzman Pulido, Luis Felipe",1105790866,3,"[3, 4, 7]"
+"Guzman Susa, Natalia",1013101513,1,[7]
+"Gómez Rodríguez, Germán Camilo",1113691040,1,[3]
+"Henao Montoya, Eduardo",1000696525,1,[7]
+"Hernandez Arango, Juan Felipe",1007233524,1,[6]
+"Hurtado Burgos, Diego Marino",1004516740,1,[6]
+"Isaza Suarez, Thalia Isabel",1007299690,1,[5]
+"Jaramillo Cardona, Diomer",1001416328,2,"[5, 6]"
+"LEON GONZALEZ, DANNA CONSTANZA",1051065648,1,[7]
+"Laguna Lasso, Angela Valentina",1004131515,1,[3]
+"Lasso Vargas, Monica Ximena",1000787766,1,[6]
+"Leal Peñalosa, Valentina",1005256744,1,[4]
+"León Tenganan, Juan David",1152691856,1,[4]
+"López Marín, Valeria",1002653352,1,[4]
+"MEJÍA GARCÍA, SANTIAGO ANDRÉS",1036403208,1,[3]
+"MORAN ARAUJO, NICHOLAS ENRIQUE",1004601271,1,[3]
+"Maestre García, Mateo",1010122984,5,"[3, 4, 5, 6, 7]"
+"Martinez Calderon, Linda Tatiana",1000460834,2,"[3, 5]"
+"Masquitta Brandt, Madeo Donovan",1192801895,1,[7]
+"Mejia Garisabalo, Linda Paola",1001848079,5,"[3, 4, 5, 6, 7]"
+"Melgarejo Fuken, Janira Mariela",1026578933,3,"[3, 4, 6]"
+"Mena Romaña, Maria Camila",1025761639,2,"[5, 7]"
+"Mendez Tapiero, Angelica ",1152462278,1,[7]
+"Meneses Ruiz, Daniel",1002752463,1,[7]
+"Montaña Ibarra, Juan Sebastian",1032505198,1,[3]
+"Morales Barbosa, Johan Gerardo",1193100386,1,[7]
+"Morales Bernal, Sebastian",1010049872,1,[3]
+"Mosquera Reyes, Ivan Camilo",1013689499,2,"[3, 5]"
+"Moyano Plazas, Dayana Alejandra",1001089866,1,[7]
+"Munera Castaño, Mateo",1036668863,1,[6]
+"Niño Gualdron, Pedro Alejandro",1002726008,5,"[3, 4, 5, 6, 7]"
+"Ochoa Rojas, Diego Alejandro",1117552081,2,"[5, 6]"
+"Olave Muñoz, Nicolas Nru Gibard",1214748341,1,[6]
+"Olaya Mantilla, Juan Camilo",1001086816,1,[3]
+"Olivares Restrepo, Alejandro",1007240086,1,[7]
+"Orozco Moscote, Alfonso David",1003316283,5,"[3, 4, 5, 6, 7]"
+"Orozco Patiño, Christian Sneider",1015277256,2,"[5, 7]"
+"Orozco Ramirez, Natalia Lucia",1006124668,1,[6]
+"Orozco Toro, Melissa ",1001725032,1,[7]
+"Osorio Giraldo, Paola Nirvana",1053838794,5,"[3, 4, 5, 6, 7]"
+"Osorio Zuluaga, Michelle ",1053860117,1,[3]
+"PORTOCARRERO QUIÑONES, CINDY NATALIA",1087108748,2,"[3, 4]"
+"Patiño Tobon, Daniel",1000295489,1,[3]
+"Perez Suancha, Karen Tatiana",1000573129,1,[3]
+"Peña Ovalle, Kevin Mateo",1000836554,4,"[4, 5, 6, 7]"
+"Peña Pineda, Jorge Luis",1007398418,1,[3]
+"Pineda Perez, Laura Carolina",1014247568,1,[3]
+"Pinto Vélez, Angela Aired",1000687875,1,[5]
+"Preciado Martinez, Luis David",1020845793,2,"[6, 7]"
+"Prieto Vélez, Carlos Andrés",1031132794,1,[3]
+"Páez Botero, Daniela",1000855515,5,"[3, 4, 5, 6, 7]"
+"Quitian Vanegas, Govanni",1016061762,3,"[3, 6, 7]"
+"RIVERA SAUMETH, BRAYAM ANTHONY",1016065970,3,"[3, 6, 7]"
+"Rabelo Mendoza, Luis Miguel",1003381327,1,[6]
+"Ramirez Nuñez, Elkin Duvan",1006793003,2,"[4, 5]"
+"Rebolledo Quiroz, Luisa Maria",1003382082,2,"[3, 5]"
+"Reyes Quintero, Andres Felipe",1083922552,1,[7]
+"Rodriguez Alvarez, Juan Jose",1003435621,2,"[4, 7]"
+"Rodriguez Aponte, Daniel Santiago",1000789340,1,[4]
+"Rodriguez Toro, Jhonn Alejandro",1007310113,5,"[3, 4, 5, 6, 7]"
+"Rodríguez Montes, Alejandro",1000417152,2,"[3, 4]"
+"Román Montiel, Juan Pablo",1007580284,1,[6]
+"Saenz Lopez, Juan Pablo",1001083711,5,"[3, 4, 5, 6, 7]"
+"Salas Diaz, Esteban Andres",1007254262,5,"[3, 4, 5, 6, 7]"
+"Sanchez Novoa, Brahian Alejandro",1007701261,1,[3]
+"Sandoval Cobos, Karen Lorena",1001205201,1,[5]
+"Santacoloma Ciuffetelli, Salvador ",1193218443,2,"[3, 6]"
+"Serna Lopez, Nicolas",1002566320,4,"[4, 5, 6, 7]"
+"Sierra Vence, Ronny David",1007182098,1,[4]
+"Suarez Martinez, Edith Alejandra",1010246237,1,[5]
+"Suescun Galeano, Mateo",1152470219,1,[7]
+"Tamayo Gonzalez, Santiago",1192904172,1,[6]
+"Torres Mestre, Sinkuney",1003234046,4,"[3, 4, 5, 7]"
+"Triviño Mideros, Jessica Johanna",1193227420,1,[4]
+"Uribe Leon, Yeyferson Leonardo",1102385245,2,"[3, 7]"
+"Valencia Galvis, Mariana",1017259911,1,[6]
+"Valero Ortiz, Carlos Mario",1000592477,1,[6]
+"Vega Guerrero, Karen Lorena",1023968536,1,[7]
+"Velez Grajales, Julissa",1036674850,2,"[6, 7]"
+"Vente Cortes, Yeison Francisco",1193244554,5,"[3, 4, 5, 6, 7]"
