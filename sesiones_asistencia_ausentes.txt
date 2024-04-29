@@ -6,3 +6,5 @@ sesion	asistencia	ausentes
 6	342	53
 7	339	56
 8	201	194
+9	206	189
+10	217	178
