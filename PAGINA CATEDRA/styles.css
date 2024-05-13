@@ -1,0 +1,182 @@
+html {
+    font-family: "Montserrat", sans-serif;
+    background-color: #3E885B;
+}
+
+header {
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.imagen-izquierda {
+    margin-right: 10px;
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.imagen-derecha {
+    margin-left: 10px;
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+section {
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.post h2 {
+    font-size: 2em;
+}
+
+section article h2 {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+p {
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.imagen {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.imagen1 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.informacion {
+    transition: all 0.4s ease;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    cursor: default;
+}
+
+.informacion:hover {
+    cursor: auto;
+}
+
+section article {
+    transition: all 0.4s ease;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    cursor: pointer;
+}
+
+section article:hover:not(hr) {
+    box-shadow: 0 0.4rem 2rem rgb(16, 84, 7);
+}
+
+.texto-oculto {
+    display: none;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.area:hover .texto-oculto {
+    display: block; 
+}
+
+hr {
+    border-color: #C0E0DE;
+    border-width: 3px;
+}
+
+* {
+    scrollbar-width: 5px;
+    scrollbar-color: #162521 rgba(192, 224, 222, 0.5);
+}
+
+.escrito {
+    text-align: justify;
+}
+
+.informacion-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.informacion {
+    width: 90%;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+footer {
+    background-color: #3E885B;
+    color: #C0E0DE;
+    padding: 5px 0;
+    text-align: center;
+}
+
+footer section {
+    margin-bottom: 5px;
+}
+
+footer a {
+    color: #C0E0DE;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer p {
+    margin-top: 10px;
+}
+
+
+.container1 {
+    display: flex;
+    max-width: 800px; /* Establecemos el ancho máximo del contenedor */
+    margin: 0 auto; /* Centramos el contenedor horizontalmente */
+    padding: 0 20px; /* Añadimos un poco de espacio a los lados del contenedor */
+    align-items: center; /* Centramos verticalmente los elementos */
+}
+
+.sesion {
+    width: 400px; /* Ajustamos el tamaño de la imagen según sea necesario */
+    height: auto; /* Permitimos que la altura se ajuste automáticamente */
+    border-radius: 10px; /* Añadimos bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añadimos una suave sombra */
+    margin-right: 20px; /* Espacio entre la imagen y el texto */
+}
+
+.escrito {
+    flex: 1; /* Hace que el texto ocupe todo el espacio disponible */
+    text-align: justify; /* Justificamos el texto */
+}
